@@ -1,5 +1,9 @@
 # cozy-dashboard
 
+demo
+
+`https://nuxt-codemirror-editor.vercel.app/`
+
 ## Build Setup
 
 ```bash
